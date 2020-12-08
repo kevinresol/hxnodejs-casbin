@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "casbin": "^5.2.2",
+    "dts2hx": "^0.15.3"
+  }
+}
